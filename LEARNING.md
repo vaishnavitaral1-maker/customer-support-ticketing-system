@@ -12,3 +12,8 @@ Database: MySQL
 
 ### Backend Flow
 Frontend → Backend → Database
+### CRUD Mapping
+POST → Create
+GET → Read
+PUT → Update
+DELETE → Delete
